@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="TMS_HomeWork11\" />
-  </ItemGroup>
-
 </Project>
